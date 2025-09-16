@@ -12,16 +12,18 @@
 - Experiment with AI / ML models and CV projects  
 - Love prototyping odd ideas — if it’s quirky, I’ll try it
 
-## 🎯 Interests
+## 🎯 Interests  
+- 🧱 Building IoT gadgets and working with sensors—getting hands-on with tech  
+- 🤖 Automating repetitive tasks to make life a little easier (or at least try to!)  
+- 🎬 Editing videos, experimenting with effects, and exploring motion graphics  
+- 🔒 Exploring cybersecurity tools and learning ethical hacking techniques  
+- 🧪 Trying out new projects and learning different technologies just for the fun of it  
+- 🧨 Curious about how things work—even if it means breaking them sometimes!
+
+## ☕ Hobbies
 - 🏎️ Big F1 fan—love tracking races, teams, and all the speed madness  
 - ♟️ Playing chess and always trying to outsmart myself  
-- 🎸 Learning guitar and messing around with riffs and tunes  
-- 🧱 Building IoT gadgets and getting hands dirty with sensors  
-- 🤖 Automating boring stuff so life’s a bit easier (It never is, but hey, thats the point right?)
-- 🎬 Editing videos, adding cool effects, and playing with motion graphics  
-- 🔒 Checking out cybersecurity tools and learning ethical hacking tricks  
-- 🧪 Experimenting with random projects and picking up new tech for fun  
-- 🧨 Always ready to blow something up—just to see what happens! (Not something I am very proud off)
+- 🎸 Learning guitar and messing around with riffs and tunes 
 
 
 ### 💡 Background
