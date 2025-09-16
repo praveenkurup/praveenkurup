@@ -15,6 +15,11 @@
 ### 🎯 Interests
 - 🏎️ F1 fan  
 - ♟️ Chess player  
+- 🎸 Learning guitar and jamming to tunes  
+- 🧱 Building IoT gadgets and tinkering with sensors  
+- 🤖 Automating workflows and making life easier with scripts  
+- 🎬 Editing videos, creating motion graphics, and experimenting with visual effects  
+- 🔒 Exploring cybersecurity tools and ethical hacking techniques  
 - 🧪 Tinkering with weird projects and learning new tech
 
 ### 💡 Background
