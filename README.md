@@ -12,15 +12,17 @@
 - Experiment with AI / ML models and CV projects  
 - Love prototyping odd ideas — if it’s quirky, I’ll try it
 
-### 🎯 Interests
-- 🏎️ F1 fan  
-- ♟️ Chess player  
-- 🎸 Learning guitar and jamming to tunes  
-- 🧱 Building IoT gadgets and tinkering with sensors  
-- 🤖 Automating workflows and making life easier with scripts  
-- 🎬 Editing videos, creating motion graphics, and experimenting with visual effects  
-- 🔒 Exploring cybersecurity tools and ethical hacking techniques  
-- 🧪 Tinkering with weird projects and learning new tech
+## 🎯 Interests
+- 🏎️ Big F1 fan—love tracking races, teams, and all the speed madness  
+- ♟️ Playing chess and always trying to outsmart myself  
+- 🎸 Learning guitar and messing around with riffs and tunes  
+- 🧱 Building IoT gadgets and getting hands dirty with sensors  
+- 🤖 Automating boring stuff so life’s a bit easier (It never is, but hey, thats the point right?)
+- 🎬 Editing videos, adding cool effects, and playing with motion graphics  
+- 🔒 Checking out cybersecurity tools and learning ethical hacking tricks  
+- 🧪 Experimenting with random projects and picking up new tech for fun  
+- 🧨 Always ready to blow something up—just to see what happens! (Not something I am very proud off)
+
 
 ### 💡 Background
 Born in **2007**. I started coding at **12** with web development and gradually learned C++, Python, and other tools while building small real-world projects. I’m self-taught, curious, and always open to collaboration or a fun challenge.
