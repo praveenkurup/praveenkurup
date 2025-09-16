@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Praveen K</h1>
-<h4 align="center">Self-taught full-stack, web & AI/ML developer (born 2007). Started coding at 12 with web dev and moved on to C++, Python, and more. Passionate about building weird projects, learning fast, and working on awesome stuff.</h4>
+<h1 align="left">Hi 👋, I'm Praveen K</h1>
+<h4 align="left">Self-taught full-stack, web & AI/ML developer (born 2007). Started coding at 12 with web dev and moved on to C++, Python, and more. Passionate about building weird projects, learning fast, and working on awesome stuff.</h4>
 
 - 👨‍💻 All my projects: https://github.com/praveenkurup?tab=repositories
 - 📫 Reach me: **username.praveen.email@gmail.com**
