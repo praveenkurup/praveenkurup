@@ -1,5 +1,3 @@
-README.md — copy this into your GitHub profile repo
-
 ## Praveen K — AI & Automation Engineer
 
 I build production systems at the intersection of LLMs, automation, and backend engineering. Currently shipping AI-driven media pipelines and agentic tools.
